@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">👋 Hi, I'm Prajwal Gaikwad!<br><br>I'm a passionate data scientist with a keen interest in uncovering insights from complex data sets. With a strong foundation in statistical analysis, machine learning, and data visualization, I enjoy turning data into actionable solutions. My expertise lies in building predictive models, developing algorithms, and creating data-driven strategies to solve real-world problems. I’m always eager to learn new techniques and tools to enhance my data science skills. Let's connect and collaborate on exciting projects!</h3>
+<h3 align="left">I'm a passionate data scientist with a keen interest in uncovering insights from complex data sets. With a strong foundation in statistical analysis, machine learning, and data visualization, I enjoy turning data into actionable solutions. My expertise lies in building predictive models, developing algorithms, and creating data-driven strategies to solve real-world problems. I’m always eager to learn new techniques and tools to enhance my data science skills. Let's connect and collaborate on exciting projects!</h3>
 
 ###
 
